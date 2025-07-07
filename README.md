@@ -14,8 +14,6 @@ Italgraniti Group è un’impresa italiana con sede a Sassuolo (MO), specializza
 
 🔍 Contenuti della pagina
 
-Presentazione dell’azienda
-
 Sintesi dei principali dati ambientali:
 
 Consumo energetico: 286.800 GJ
