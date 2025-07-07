@@ -1,0 +1,70 @@
+/* Reset di base */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Stile generale del corpo */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Intestazione */
+header {
+  background-color: #0d2d57;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Contenuto principale */
+main {
+  max-width: 900px;
+  margin: 30px auto;
+  padding: 0 20px;
+}
+
+/* Sezione introduttiva */
+.intro h2, .dati h2, .download h2 {
+  margin-top: 20px;
+  color: #0d2d57;
+}
+
+/* Lista dei dati ambientali */
+.dati ul {
+  margin-top: 10px;
+  padding-left: 20px;
+}
+
+.dati li {
+  margin-bottom: 10px;
+}
+
+/* Pulsante download */
+.btn {
+  display: inline-block;
+  background-color: #0d2d57;
+  color: white;
+  padding: 12px 25px;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 15px;
+  transition: background-color 0.3s;
+}
+
+.btn:hover {
+  background-color: #1e478c;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  margin-top: 50px;
+  padding: 20px;
+  background-color: #e3e3e3;
+  font-size: 0.9em;
+}
