@@ -76,4 +76,4 @@ Riflessione metodologica e tecnico-pratica
 
 © Credits
 
-Pagina sviluppata per fini accademici da Lorenzo IovineCorso di Laurea in Informatica per le Aziende DigitaliAnno Accademico 2024/2025
+Pagina sviluppata per fini accademici da Lorenzo Iovine Corso di Laurea in Informatica per le Aziende DigitaliAnno Accademico 2024/2025
